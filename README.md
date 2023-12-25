@@ -1,13 +1,4 @@
-# The Guild
 
-## Backstory
-
-## Actors
-
-## Mechanics
- 
- 
- 
  
  
  
